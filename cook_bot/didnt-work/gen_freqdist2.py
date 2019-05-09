@@ -1,4 +1,5 @@
 # coding: utf-8
+# this file was one of the testing files to figure out bigrams and freqdists
 import csv
 recipes = []
 with open(file='myrecipes.csv', mode='r') as infile:

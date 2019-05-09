@@ -1,4 +1,5 @@
 # coding: utf-8
+# this worked better for bigram frequencies, but i prettied it up for final use
 import nltk
 import pickle
 with open(file='freqdist2', mode='rb') as infile:
